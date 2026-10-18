@@ -1,9 +1,5 @@
 ### Hi there! 👋 Welcome to My Homepage!
 
-*Exploring the intersection of Artificial Intelligence, Robotics and the Universe.*
-
-</div>
-
 ---
 
 ## 👨‍💻 About Me
