@@ -1,4 +1,6 @@
-![Hi there! 👋 Welcome to My Homepage!](https://raw.githubusercontent.com/PatrickZhu26/PatrickZhu26/main/neural-welcome.svg)
+### Hi there! 👋
+
+![Animated Welcome](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=008CFF&background=080D1FFF&center=true&vCenter=true&width=700&height=75&lines=Welcome+to+My+Homepage!;Exploring+AI+and+Robotics;Inspired+by+the+Universe)
 
 ---
 
