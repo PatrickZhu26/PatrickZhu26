@@ -16,9 +16,9 @@ I enjoy learning about new technologies and exploring how intelligent machines c
 
 ### Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c,cpp&theme=light" alt="Java, C and C++" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
