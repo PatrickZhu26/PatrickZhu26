@@ -27,9 +27,9 @@ I enjoy learning about new technologies and exploring how intelligent machines c
 | Field | Area of Interest |
 |:---|:---|
 | 🤖 **Robotics & Automation** | Intelligent robotic systems and automation |
+| ⚙️ **Mechanical Systems** | Mechatronics, mechanical design and engineering |
 | 🧠 **Artificial Intelligence** | AI, machine learning and intelligent technologies |
 | 🌌 **Space Exploration** | Space technology and exploration of the universe |
-| ⚙️ **Mechanical Systems** | Mechatronics, mechanical design and engineering |
 
 ---
 
