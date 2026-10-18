@@ -1,4 +1,4 @@
-### Hi there! 👋 Welcome to My Homepage!
+![Hi there! 👋 Welcome to My Homepage!](https://raw.githubusercontent.com/PatrickZhu26/PatrickZhu26/main/neural-welcome.svg)
 
 ---
 
