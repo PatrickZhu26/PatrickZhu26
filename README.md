@@ -44,15 +44,7 @@ I enjoy learning about new technologies and exploring how intelligent machines c
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PatrickZhu26&show_icons=true&theme=default&hide_border=true" height="165" alt="Patrick's GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickZhu26&layout=compact&theme=default&hide_border=true" height="165" alt="Most used programming languages" />
-
-</div>
 
 ---
 
